@@ -32,32 +32,34 @@ This repository contains a Video Calling App built using Jetpack Compose and the
  - Open the project in Android Studio and sync the project with Gradle. Make sure to build the project to download all necessary dependencies.
 
 <h1>Running the App<h1/>
-Connect your Android device or start an emulator and run the app from Android Studio.
 
-Technologies Used
-Android Gradle Plugin (AGP) - Version: 8.1.2
-Kotlin - Version: 1.9.0
-Jetpack Libraries:
+- Connect your Android device or start an emulator and run the app from Android Studio.
 
-Core KTX: androidx.core:core-ktx:1.13.1
-Lifecycle Runtime KTX: androidx.lifecycle:lifecycle-runtime-ktx:2.8.0
-Activity Compose: androidx.activity:activity-compose:1.9.0
-Compose BOM: androidx.compose:compose-bom:2023.08.00
-Compose UI: androidx.compose.ui:ui
-Compose UI Graphics: androidx.compose.ui:ui-graphics
-Compose UI Tooling: androidx.compose.ui:ui-tooling
-Compose UI Tooling Preview: androidx.compose.ui:ui-tooling-preview
-Compose UI Test Manifest: androidx.compose.ui:ui-test-manifest
-Compose UI Test JUnit4: androidx.compose.ui:ui-test-junit4
-Material3: androidx.compose.material3:material3
-Navigation Compose: androidx.navigation:navigation-compose:2.8.0-beta01
-Testing Libraries:
+<h1>Technologies Used<h1/>
 
-JUnit: junit:junit:4.13.2
-AndroidX JUnit: androidx.test.ext:junit:1.1.5
-Espresso Core: androidx.test.espresso:espresso-core:3.5.1
-Stream SDK:
+- Android Gradle Plugin (AGP) - Version: 8.1.2
+- Kotlin - Version: 1.9.0
+- Jetpack Libraries:
 
+- Core KTX: androidx.core:core-ktx:1.13.1
+- Lifecycle Runtime KTX: androidx.lifecycle:lifecycle-runtime-ktx:2.8.0
+- Activity Compose: androidx.activity:activity-compose:1.9.0
+- Compose BOM: androidx.compose:compose-bom:2023.08.00
+- Compose UI: androidx.compose.ui:ui
+- Compose UI Graphics: androidx.compose.ui:ui-graphics
+- Compose UI Tooling: androidx.compose.ui:ui-tooling
+- Compose UI Tooling Preview: androidx.compose.ui:ui-tooling-preview
+- Compose UI Test Manifest: androidx.compose.ui:ui-test-manifest
+- Compose UI Test JUnit4: androidx.compose.ui:ui-test-junit4
+- Material3: androidx.compose.material3:material3
+- Navigation Compose: androidx.navigation:navigation-compose:2.8.0-beta01
+
+ <h1>Testing Libraries<h1/>
+
+- JUnit: junit:junit:4.13.2
+- AndroidX JUnit: androidx.test.ext:junit:1.1.5
+- Espresso Core: androidx.test.espresso:espresso-core:3.5.1
+ Stream SDK:
 Stream Video Core: io.getstream:stream-video-android-core:0.5.8
 Stream Video UI Compose: io.getstream:stream-video-android-ui-compose:0.5.8
 Koin for Dependency Injection:
@@ -68,29 +70,37 @@ Koin AndroidX Compose: io.insert-koin:koin-androidx-compose:3.5.3
 Kotlin Serialization:
 
 Kotlinx Serialization JSON: org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3
-Project Structure
+
+<h1>Project Structure</h1>
+
 The project follows a modular approach with the following structure:
 
-app: Contains the main application logic.
-connect: Contains connection logic.
-video: Contains video call logic.
-ui: Comprises all UI-related code including Compose components.
-di: Contains dependency injection modules.
-Usage
-To use the app, follow these steps:
+- app: Contains the main application logic.
+- connect: Contains connection logic.
+- video: Contains video call logic.
+- ui: Comprises all UI-related code including Compose components.
+- di: Contains dependency injection modules.
 
-Clone the repository.
-Open it in Android Studio.
-Sync and build the project.
-Run the app on an emulator or a real device.
-Contributions
+<h1>Usage<h1/>
+
+<h1>To use the app, follow these steps</h1>
+
+- Clone the repository.
+- Open it in Android Studio.
+- Sync and build the project.
+- Run the app on an emulator or a real device.
+
+<h1>Contributions</h1>
+
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
 
-License
+<h1>License</h1>
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
-Jetpack Compose team for providing a modern UI toolkit.
-Stream for their robust video SDK.
-Koin for making dependency injection simple and effective.
-Happy coding!
+<h1>Acknowledgements</h1>
+
+- Jetpack Compose team for providing a modern UI toolkit.
+- Stream for their robust video SDK.
+- Koin for making dependency injection simple and effective.
+
+                                                            Happy coding!
