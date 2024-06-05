@@ -5,11 +5,17 @@ This repository contains a Video Calling App built using Jetpack Compose and the
 <h1>Features</h1>
 
 - Video calling functionality using Stream's video SDK.
+
 - MVI architecture for unidirectional data flow and state management.
+
 - Dependency injection using Koin.
+
 - Kotlin Serialization for efficient data parsing.
+
 - Jetpack Compose for building the UI.
+
 - Navigation component for managing in-app navigation.
+
 - Unit and UI testing support.
 
 <h1>Getting Started<h1>
@@ -19,12 +25,17 @@ This repository contains a Video Calling App built using Jetpack Compose and the
 <h1>Ensure you have the following installed:</h1>
 
 - Android Studio
+
 - Kotlin 1.9.0
+
 - Gradle 8.1.2
+
 - Cloning the Repository
+
 - Bash
 
 - git clone https://github.com/kyodgorbek/videocallingapp.git 
+
 - cd videocallingapp
 
   <h1>Building the Project<h1/>
