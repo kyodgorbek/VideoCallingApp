@@ -43,15 +43,15 @@ This repository contains a Video Calling App built using Jetpack Compose and the
  - Open the project in Android Studio and sync the project with Gradle.
  -  Make sure to build the project to download all necessary dependencies.
 
-<h1> Running the App<h1/>
+## Running the App
 
--  Connect your Android device or start an emulator
--  and run the app from Android Studio.
+- Connect your Android device or start an emulator
+- and run the app from Android Studio.
 
-<h1> Technologies Used<h1/>
+### Technologies Used
 
-- Android Gradle Plugin (AGP) - Version: 8.1.2
-- Kotlin - Version: 1.9.0
+- **Android Gradle Plugin (AGP)** - Version: 8.1.2
+- **Kotlin** - Version: 1.9.0
 
 <h1> Jetpack Libraries</h1>
 
