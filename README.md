@@ -16,13 +16,14 @@ This repository contains a Video Calling App built using Jetpack Compose and the
 
 <h1>Prerequisites</h1>
 
-Ensure you have the following installed:
+<h1>Ensure you have the following installed:</h1>
 
-Android Studio
-Kotlin 1.9.0
-Gradle 8.1.2
-Cloning the Repository
-Bash
+- Android Studio
+- Kotlin 1.9.0
+- Gradle 8.1.2
+- Cloning the Repository
+- Bash
+
 git clone https://github.com/kyodgorbek/videocallingapp.git
 cd videocallingapp
 Use code with caution.
