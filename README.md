@@ -86,9 +86,7 @@ This repository contains a Video Calling App built using Jetpack Compose and the
  <h1>Testing Libraries<h1/>
 
 - JUnit: junit:junit:4.13.2
-
 - AndroidX JUnit: androidx.test.ext:junit:1.1.5
-
 - Espresso Core: androidx.test.espresso:espresso-core:3.5.1
 
  <h1> Stream SDK </h1>
