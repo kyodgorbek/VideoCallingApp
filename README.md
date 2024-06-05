@@ -12,7 +12,7 @@ This repository contains a Video Calling App built using Jetpack Compose and the
 
 - Kotlin Serialization for efficient data parsing.
 
-- Jetpack Compose for building the UI.
+- Jetpack Compose for building the UI. 
 
 - Navigation component for managing in-app navigation.
 
