@@ -92,7 +92,7 @@ This repository contains a Video Calling App built using Jetpack Compose and the
 
  <h1> Stream SDK </h1>
 
-- Stream Video UI Compose: io.getstream:stream-video-android-ui-compose:0.5.8
+- Stream Video Core: io.getstream:stream-video-android-core:0.5.8
 
 - Stream Video UI Compose: io.getstream:stream-video-android-ui-compose:0.5.8
 
