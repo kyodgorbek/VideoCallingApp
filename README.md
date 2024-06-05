@@ -45,7 +45,8 @@ This repository contains a Video Calling App built using Jetpack Compose and the
 
 <h1>Running the App<h1/>
 
--  Connect your Android device or start an emulator and run the app from Android Studio.
+-  Connect your Android device or start an emulator
+-  and run the app from Android Studio.
 
 <h1>Technologies Used<h1/>
 
