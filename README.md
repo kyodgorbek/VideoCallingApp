@@ -1,3 +1,4 @@
+Video Calling App Using Jetpack Compose and MVI
 Overview
 This repository contains a Video Calling App built using Jetpack Compose and the Model-View-Intent (MVI) architecture. The project demonstrates modern Android development practices with a focus on building a fully functional video calling feature.
 
@@ -62,8 +63,8 @@ Project Structure
 The project follows a modular approach with the following structure:
 
 app: Contains the main application logic.
-connect: Contains Connection Logic  
-video: Contains Video Call  Logic 
+connect: Contains connection logic.
+video: Contains video call logic.
 ui: Comprises all UI-related code including Compose components.
 di: Contains dependency injection modules.
 Usage
