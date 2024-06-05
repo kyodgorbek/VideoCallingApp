@@ -16,7 +16,7 @@ This repository contains a Video Calling App built using Jetpack Compose and the
 
 - Navigation component for managing in-app navigation.
 
-- Unit and UI testing support.
+- Unit testing support.
 
 <h1>Getting Started<h1>
 
