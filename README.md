@@ -54,34 +54,19 @@ This repository contains a Video Calling App built using Jetpack Compose and the
 
 - Kotlin - Version: 1.9.0
 
-- Jetpack Libraries:
-
+<h1> Jetpack Libraries</h1>
 
 - Core KTX: androidx.core:core-ktx:1.13.1
-
-
 - Lifecycle Runtime KTX: androidx.lifecycle:lifecycle-runtime-ktx:2.8.0
-
-
 - Activity Compose: androidx.activity:activity-compose:1.9.0
-
-
 - Compose BOM: androidx.compose:compose-bom:2023.08.00
-
 - Compose UI: androidx.compose.ui:ui
-
 - Compose UI Graphics: androidx.compose.ui:ui-graphics
-
 - Compose UI Tooling: androidx.compose.ui:ui-tooling
-
 - Compose UI Tooling Preview: androidx.compose.ui:ui-tooling-preview
-
 - Compose UI Test Manifest: androidx.compose.ui:ui-test-manifest
-
 - Compose UI Test JUnit4: androidx.compose.ui:ui-test-junit4
-
 - Material3: androidx.compose.material3:material3
-
 - Navigation Compose: androidx.navigation:navigation-compose:2.8.0-beta01
 
  <h1>Testing Libraries<h1/>
