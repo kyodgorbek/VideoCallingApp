@@ -11,8 +11,11 @@ This repository contains a Video Calling App built using Jetpack Compose and the
 - Jetpack Compose for building the UI.
 - Navigation component for managing in-app navigation.
 - Unit and UI testing support.
-Getting Started
-Prerequisites
+
+<h1>Getting Started<h1>
+
+<h1>Prerequisites</h1>
+
 Ensure you have the following installed:
 
 Android Studio
