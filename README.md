@@ -1,15 +1,16 @@
-- Video Calling App using Jetpack Compose and MVI 
+ Video Calling App using Jetpack Compose and MVI 
 
-This repository contains a Video Calling App built using Jetpack Compose and the Model-View-Intent (MVI) architecture. The project demonstrates modern Android development practices with a focus on building a fully functional video calling feature.
+This repository contains a Video Calling App built using Jetpack Compose and the Model-View-Intent (MVI) architecture. The project demonstrates modern Android development practices with a focus on building a fully functional video-calling feature.
 
-Features
-Video calling functionality using Stream's video SDK.
-MVI architecture for unidirectional data flow and state management.
-Dependency injection using Koin.
-Kotlin Serialization for efficient data parsing.
-Jetpack Compose for building the UI.
-Navigation component for managing in-app navigation.
-Unit and UI testing support.
+<h>Features</h>
+
+- Video calling functionality using Stream's video SDK.
+- MVI architecture for unidirectional data flow and state management.
+- Dependency injection using Koin.
+- Kotlin Serialization for efficient data parsing.
+- Jetpack Compose for building the UI.
+- Navigation component for managing in-app navigation.
+- Unit and UI testing support.
 Getting Started
 Prerequisites
 Ensure you have the following installed:
