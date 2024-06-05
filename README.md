@@ -2,7 +2,7 @@
 
 This repository contains a Video Calling App built using Jetpack Compose and the Model-View-Intent (MVI) architecture. The project demonstrates modern Android development practices with a focus on building a fully functional video-calling feature.
 
-<h>Features</h>
+<h1>Features</h1>
 
 - Video calling functionality using Stream's video SDK.
 - MVI architecture for unidirectional data flow and state management.
