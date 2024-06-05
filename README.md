@@ -51,7 +51,6 @@ This repository contains a Video Calling App built using Jetpack Compose and the
 <h1>Technologies Used<h1/>
 
 - Android Gradle Plugin (AGP) - Version: 8.1.2
-
 - Kotlin - Version: 1.9.0
 
 <h1> Jetpack Libraries</h1>
